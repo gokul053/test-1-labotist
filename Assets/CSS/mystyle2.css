@@ -1,0 +1,178 @@
+body
+{
+    background-color: whitesmoke;
+}
+.colcolor1
+{
+    background-color: white;
+    position: sticky;
+    overflow: scroll;
+}
+.navcolor
+{
+    background-color: #0189c0 !important;
+    color: white;
+    font-weight: 300;
+}
+.nav-link
+{
+    color: white;
+    font-weight: 300 !important; 
+    font-family: Arial, FontAwesome;
+}
+.fa-bars
+{
+    color:black;
+}
+.colcolor
+{
+    
+    padding-top: 0px;
+    padding-right: 0px;
+}
+.tick
+{
+    background-color: #4b9f36;
+    color: white;
+    border-radius: 100%;
+}
+.tick1
+{
+    background-color: #0a759f;
+    color: white;
+    border-radius: 100%;
+}
+.money1
+{
+    background-color: #584cae;
+    color: white;
+    border-radius: 100%;
+}
+.money2
+{
+    background-color: #bb8f48;
+    color: white;
+    border-radius: 100%;
+}
+.peop
+{
+    background-color: #ff8929;
+    color: white;
+    border-radius: 100%;
+}
+.peop1
+{
+    background-color: #a1bf45;
+    color: white;
+    border-radius: 100%;
+}
+.peop2
+{
+    background-color: #029fca;
+    color: white;
+    border-radius: 100%;
+}
+.cont123
+{
+    border: 1px solid #dddddd;
+}
+.cont1
+{
+    border-bottom: 1px solid #dddddd;
+}
+.cont12
+{
+    border:0px;
+    box-shadow: 0px 0px 20px 2px rgba(0,0,0,0.51);
+    -webkit-box-shadow: 0px 0px 20px 2px rgba(0,0,0,0.51);
+    -moz-box-shadow: 0px 0px 20px 2px rgba(0,0,0,0.51);
+    padding-top:20px !important ;
+    padding-bottom: 20px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.end
+{
+    text-decoration: none;
+    color: #2088f8 !important;
+}
+
+.text12
+{
+    color: #1cb3e8;
+}
+.but12
+{
+    color: #1cb3e8;
+    text-decoration: none;
+    width: fit-content;
+    padding: 0px;
+}
+.onlinedot
+{
+    font-family: Arial, FontAwesome;
+    color: #2fca43;
+    font-size: x-small;
+}
+.ftext
+{
+    font-size: x-large ;
+}
+.ftext1
+{
+    font-weight: 200 ;
+}
+
+
+
+
+@media (max-width:768px)
+{
+   .large
+   {
+        display: none;
+   }
+}
+
+@media (max-width:534px)
+{
+   .cont1
+   {
+        padding: 10px !important;  
+   }
+   .cont9
+   {
+        padding: 10px !important;  
+   }
+}
+.small1 { display: none; }
+@media (max-width: 768px) { 
+    .large1 { display: none; }
+    .small1 { display:flex; border-radius: 0px; }
+    .cont123{ border: 1px solid #dddddd; margin-top: 3rem;}
+
+}
+
+.backbg
+{
+    background-color:#029fca;
+}
+.but123
+{
+    color: black;
+    text-decoration: none;
+    width: fit-content;
+    padding: 0px;
+}
+.but1
+{
+    color:black !important;
+}
+
+.whitebg
+{
+    position: absolute;
+    background-color: white;
+    
+}
